@@ -1,4 +1,4 @@
-# Case DS Grupo Boticário
+# Sales Forecasting Experiment
 Aqui temos um modelo da previsão da quantidade vendidas de itens usando
 Python e scikit-learn. Depois de explorar dados e diversos resultados
 a opção foi por um modelo Random Forest que pode ser usado para a previsão das
